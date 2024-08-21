@@ -3,7 +3,7 @@ import streamlit as st
 
 st.markdown ("# Sergio Martínez Escobedo")
 st.markdown ("## Administración y Finanzas")
-st.image ("/Users/Sergio/Desktop/Archivos de Python/Imagen 18-08-24 a las 23.09.jpg", width=200)
+
 
 st.markdown ("----------------")
 
