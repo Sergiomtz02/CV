@@ -4,6 +4,8 @@ import streamlit as st
 st.markdown ("# Sergio Martínez Escobedo")
 st.markdown ("## Administración y Finanzas")
 
+st.image ("SergioMtz.jpeg",width = 160)
+
 
 st.markdown ("----------------")
 
