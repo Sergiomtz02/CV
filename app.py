@@ -41,7 +41,7 @@ st.markdown("- Registro y control de facturas")
 st.markdown("- Registro de gastos e ingresos")
 st.markdown("- Elaboración de puntos de equilibrio de productos")
 
-st.markdown("## ENNOVI 2024")
+st.markdown("## ENNOVI (2024)")
 
 st.markdown ("### Responsabilidades:")
 st.markdown("- Manejo de SAP")
