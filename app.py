@@ -7,7 +7,7 @@ st.markdown ("## Administración y Finanzas")
 st.markdown ("----------------")
 
 st.markdown ("# Acerca de mi")
-st.markdown ("Actualmente curso el séptimo semestre de la carrera de Administración y Finanzas en la Universidad Panamericana, Campus Guadalajara con 21 años de edad. Poseo un año de experiencia en áreas administrativas y contables, demostrando ser una persona paciente, responsable y comprometida con mis objetivos. Disfruto trabajar en equipo y contribuir a la resolución de conflictos")
+st.markdown ("Actualmente curso el octavo semestre de la carrera de Administración y Finanzas en la Universidad Panamericana, Campus Guadalajara con 22 años de edad. Poseo un año de experiencia en áreas administrativas y contables, demostrando ser una persona paciente, responsable y comprometida con mis objetivos. Disfruto trabajar en equipo y contribuir a la resolución de conflictos")
 
 st.markdown ("---------------")
 
