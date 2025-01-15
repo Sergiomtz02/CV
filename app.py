@@ -4,9 +4,6 @@ import streamlit as st
 st.markdown ("# Sergio Martínez Escobedo")
 st.markdown ("## Administración y Finanzas")
 
-st.image ("SergioMtz.jpeg",width = 160)
-
-
 st.markdown ("----------------")
 
 st.markdown ("# Acerca de mi")
@@ -23,7 +20,11 @@ st.markdown ("---------------")
 
 st.markdown ("# Contacto")
 st.markdown ("- +52 492 218 9969")
-st.markdown ("- Av.Empresarios 236, Zapopan, Jalisco, 45116")
+st.markdown ("- Av.Empresarios 236")
+st.markdown ("- Col. Puerta de Hierro")
+st.markdown ("- Zapopan")
+st.markdown ("- Jalisco")
+st.markdown ("- 45116")
 st.markdown ("- serch.mtz88@hotmail.com")
 
 st.markdown ("---------------")
@@ -34,20 +35,28 @@ st.markdown("## Olexo Foods (2023-2024)")
 
 st.markdown ("### Responsabilidades:")
 st.markdown("- Uso de Contpaq")
-st.markdown("- Registro de pedidos")
-st.markdown("- Registro de cotizaciones")
-st.markdown("- Registro de facturas")
+st.markdown("- Gestion y registro de pedidos")
+st.markdown("- Elaboracion y registro de cotizaciones")
+st.markdown("- Registro y control de facturas")
 st.markdown("- Registro de gastos e ingresos")
 st.markdown("- Elaboración de puntos de equilibrio de productos")
 
 st.markdown("## ENNOVI 2024")
 
 st.markdown ("### Responsabilidades:")
-st.markdown("- Uso de SAP")
+st.markdown("- Manejo de SAP")
 st.markdown("- Registro de facturas de egreso")
-st.markdown("- Registro de fletes")
-st.markdown("- Apoyo en cuentas por Pagar")
-st.markdown("- Apoyo en conteo de inventario")
+st.markdown("- Gestion y registro de costos de fletes")
+st.markdown("- Asistencia en la gestion de cuentas por pagar")
+st.markdown("- Participacion en el conteo y control de inventarios")
+
+st.markdown("## Olexo Foods (2024)")
+
+st.markdown("- Gestion de cuentas por cobrar")
+st.markdown("- Realizacion de analisis financieros a cierre de mes")
+st.markdown("- Administracion de operaciones y transacciones bancarias de la empresa")
+st.markdown("- Uso de CONTPAQi")
+
 
 st.markdown ("---------------")
 
